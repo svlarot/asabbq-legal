@@ -2,7 +2,7 @@
 
 **Last updated: 14 May 2026**
 
-This page explains what the ASA BBQ customer mobile app does with your information. We've kept it short and in plain English, because most privacy policies are neither. If anything below isn't clear, write to us at **support@asabbq.com** and we'll explain.
+This page explains what the ASA BBQ customer mobile app does with your information. We've kept it short and in plain English, because most privacy policies are neither. If anything below isn't clear, write to us at **support@bluenex.org** and we'll explain.
 
 This policy covers the ASA BBQ customer app, distributed on the Google Play Store under the package name `com.asabbq.customer_mobile`. ASA BBQ is a restaurant in **Bogo City, Cebu, Philippines**. The app is the customer-facing companion to the restaurant — it shows our menu, lets you place an order for dine-in or pick-up, and tracks the status of that order.
 
@@ -108,10 +108,10 @@ You can:
 
 - **Sign out.** From the app menu, choose Sign out. Your session ends; your stored orders stay on the account.
 - **Stop using the app without deleting anything.** Just uninstall it. The cart on the device is removed; your order history on our backend is not.
-- **Delete your account and order history.** Email **support@asabbq.com** from the address tied to your Google sign-in. We'll confirm and then remove your account and the orders linked to it. The full step-by-step lives at our [account-deletion page](./delete-account/).
+- **Delete your account and order history.** Email **support@bluenex.org** from the address tied to your Google sign-in. We'll confirm and then remove your account and the orders linked to it. The full step-by-step lives at our [account-deletion page](./delete-account/).
 - **Reset the ads consent form** (if it applies in your region). On Android: clear the app's storage or reinstall — the consent form will be shown again on next launch.
 
-We do not ask you to verify your identity beyond using the same email you signed in with. If you can't sign in (for example, you've lost access to your Google account), write to **support@asabbq.com** with enough detail to confirm the orders are yours, and we'll help.
+We do not ask you to verify your identity beyond using the same email you signed in with. If you can't sign in (for example, you've lost access to your Google account), write to **support@bluenex.org** with enough detail to confirm the orders are yours, and we'll help.
 
 ---
 
@@ -160,6 +160,6 @@ If you continue to use the app after a change, you accept the updated policy. If
 
 The ASA BBQ customer app is built and operated by the ASA BBQ restaurant team in **Bogo City, Cebu, Philippines**.
 
-Email: **support@asabbq.com**
+Email: **support@bluenex.org**
 
 We answer privacy questions at the same address.

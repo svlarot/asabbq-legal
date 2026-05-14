@@ -10,7 +10,7 @@ The ASA BBQ customer app is distributed on Google Play under the package name `c
 
 ## The shortest version
 
-Email **support@bluenex.org** from the email address you used to sign in to the app, with the subject line **"Delete my account"**. Within **7 days** we will confirm we've removed your account and the orders attached to it.
+Email **asabbq.restaurant@gmail.com** from the email address you used to sign in to the app, with the subject line **"Delete my account"**. Within **7 days** we will confirm we've removed your account and the orders attached to it.
 
 If your last order is still being prepared or paid for, we'll wait for that order to close before deleting the account, so the kitchen and the cashier don't get a half-finished order with no customer attached.
 
@@ -18,7 +18,7 @@ If your last order is still being prepared or paid for, we'll wait for that orde
 
 ## Step-by-step
 
-1. Open your email and write a message to **support@bluenex.org**.
+1. Open your email and write a message to **asabbq.restaurant@gmail.com**.
 2. Send it from the **same Google account** you used to sign in to the app — that's how we confirm the request is really from you.
 3. Use the subject line **"Delete my account"**.
 4. (Optional) If you remember an order number or a date of a recent order, mention it. It helps us find the account quickly. You do not have to include this.
@@ -62,12 +62,12 @@ Uninstalling alone does **not** delete your server-side account — email us as 
 
 ## Can't sign in or no longer have access to the Google account?
 
-If you've lost access to the Google account you used to sign in, you cannot prove the account is yours just by emailing us from a different address. In that case, write to **support@bluenex.org** with as much detail as you can about your past orders — approximate dates, items ordered, the table you sat at, the GCash reference number on a past payment — and we'll do our best to identify the account and delete it.
+If you've lost access to the Google account you used to sign in, you cannot prove the account is yours just by emailing us from a different address. In that case, write to **asabbq.restaurant@gmail.com** with as much detail as you can about your past orders — approximate dates, items ordered, the table you sat at, the GCash reference number on a past payment — and we'll do our best to identify the account and delete it.
 
 ---
 
 ## Who to contact
 
-Email: **support@bluenex.org**
+Email: **asabbq.restaurant@gmail.com**
 
 We are the same team behind the restaurant in Bogo City, Cebu, so please be patient — we answer privacy emails within a few business days.
